@@ -1,7 +1,7 @@
 <?php
 
 $asanloh=PHP_VERSION;
-echo"$asanloh";
+print ($asanloh);
 echo 1;
 
 ?>
